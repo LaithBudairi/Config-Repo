@@ -3,7 +3,7 @@ app:
   description: Welcome to ${app.name}
 
 my:
-  greeting: updated greeting from config server 2
+  greeting: updated greeting from config server 3
   list:
     value: One,Two,Three,Four
 
