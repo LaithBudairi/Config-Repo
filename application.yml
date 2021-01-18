@@ -8,7 +8,7 @@ my:
     value: One,Two,Three,Four
 
 db:
-  connection: "{connectionString: 'http://___', userName: 'foo', password: 'pass'}"
+  connection: "{connectionString99: 'http://___', userName: 'foo', password: 'pass'}"
   host: 127.0.0.1
   port: 1200
 
@@ -18,6 +18,3 @@ management:
       exposure:
         include: "*"
 
-spring:
-  profiles:
-    active: test
